@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IfraJabin
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently learning Image Processing
 - 📫 How to reach me ifra2590@gmail.com
 
 <!---
